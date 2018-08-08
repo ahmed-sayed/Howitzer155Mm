@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the introduction & properties category -->
+    <color name="category_intro">#FD8E09</color>
+
+    <!-- Background color for the E7telal El madfaa3 category -->
+    <color name="category_E7telal">#379237</color>
+
+    <!-- Background color for the Tawgieh El Director category -->
+    <color name="category_Tawgieh_Eldirector">#8800A0</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_Tawgieh_Elmadfaa3">#16AFCA</color>
+
+
+    </resources>

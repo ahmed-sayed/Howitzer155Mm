@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"هاوتزر 155 Mm   "</string>
+    <string name="introduction_And_properties">"التقديم و الخواص "</string>
+    <string name="Tanseq_Elmadfaa3">" تنسيق المدفع "</string>
+    <string name="Tawgieh_Eldirector">توجيه الدايركتور</string>
+    <string name="Tawgieh_Elmadfaa3">توجيه المدفع</string>
+    <string name="Tawleef_Elmadfaa3"> توليف المدفع </string>
+    <string name="A.R.D">"أ.ر.ض"</string>
+    <string name="degree">درجه</string>
+    <string name="deci">"ديسى "</string>
+    <string name="mils">"ميلز "</string>
+    <string name="Rabt_Qeta3">"ربط قطاع "</string>
+    <string name="Qeta3_number">" رقم القطاع "</string>
+    <string name="Distance">" مسافه "</string>
+    <string name="Direction">" اتجاه "</string>
+    <string name="Distance_Fix">" تصحيح المسافه "</string>
+    <string name="Direction_Fix">" تصحيح الاتجاه "</string>
+    <string name="Height">" ارتفاع "</string>
+    <string name="En7raf">" انحراف "</string>
+    <string name="Right">" يمين "</string>
+    <string name="Left">" يسار "</string>
+    <string name="A5r_Marbotaah">"أخر مربوطه "</string>
+
+</resources>
